@@ -85,7 +85,7 @@ To verify or refine selections using the PDB web interface:
 1. Go to the [Protein Data Bank](https://www.rcsb.org/).
 2. Open **Advanced Search**.
 3. Navigate to **Structure Attributes → ID and Keywords → Entry ID**.
-4. After **“is any of”** Paste the contents of `selected_proteins.txt` ID files
+4. After **“is any of”**, paste the contents of `selected_proteins.txt` ID files
 
 This will reproduce the selected structures directly in the PDB interface.
 
