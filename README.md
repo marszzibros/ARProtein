@@ -59,7 +59,7 @@ Only structures containing at least one of these terms are retained.
 
 ## 5. Structural Filtering Criteria
 
-Protein structures are further filtered to ensure biological relevance:
+Protein structures are further filtered:
 
 - **Number of protein chains ≥ 2**
 - **polymer composition = heteromeric protein**
