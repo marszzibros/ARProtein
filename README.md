@@ -78,7 +78,7 @@ This file contains the final curated set of PDB IDs.
 
 ---
 
-## Advanced Search Instructions (Optional)
+## Advanced Search Instructions
 
 To verify or refine selections using the PDB web interface:
 
