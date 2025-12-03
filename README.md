@@ -62,7 +62,7 @@ Only structures containing at least one of these terms are retained.
 Protein structures are further filtered to ensure biological relevance:
 
 - **Number of protein chains ≥ 2**
-- **Number of complexes ≥ 2**
+- **polymer composition = heteromeric protein**
 
 Only PDB files that meet both criteria are included in the final dataset.
 
