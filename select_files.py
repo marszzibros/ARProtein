@@ -13,7 +13,7 @@ complex_chains_limit = 2
 
 final_df = combined_df[
     (combined_df['protein_chains'] >= protein_chains_limit) &
-    (combined_df['complex_chains'] >= complex_chains_limit)
+    (combined_df['polymer_composition'] == "heteromeric protein")
 ]
 final_df.to_csv("data/selected_proteins.csv", index=False)
 
