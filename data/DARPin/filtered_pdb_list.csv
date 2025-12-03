@@ -1,290 +1,290 @@
-pdb_file,metadata_file,protein_chains,complex_chains
-data/DARPin/pdb_files/5OOU.pdb,data/DARPin/metadata_files/5OOU_metadata.json,1,1
-data/DARPin/pdb_files/5OOS.pdb,data/DARPin/metadata_files/5OOS_metadata.json,1,1
-data/DARPin/pdb_files/4YDW.pdb,data/DARPin/metadata_files/4YDW_metadata.json,2,1
-data/DARPin/pdb_files/9EPA.pdb,data/DARPin/metadata_files/9EPA_metadata.json,1,1
-data/DARPin/pdb_files/4DUI.pdb,data/DARPin/metadata_files/4DUI_metadata.json,1,1
-data/DARPin/pdb_files/5OP3.pdb,data/DARPin/metadata_files/5OP3_metadata.json,1,1
-data/DARPin/pdb_files/8VE7.pdb,data/DARPin/metadata_files/8VE7_metadata.json,1,1
-data/DARPin/pdb_files/7TBN.pdb,data/DARPin/metadata_files/7TBN_metadata.json,2,1
-data/DARPin/pdb_files/7TBO.pdb,data/DARPin/metadata_files/7TBO_metadata.json,2,1
-data/DARPin/pdb_files/9IRV.pdb,data/DARPin/metadata_files/9IRV_metadata.json,3,2
-data/DARPin/pdb_files/6FPB.pdb,data/DARPin/metadata_files/6FPB_metadata.json,1,1
-data/DARPin/pdb_files/6FPA.pdb,data/DARPin/metadata_files/6FPA_metadata.json,2,1
-data/DARPin/pdb_files/6SA7.pdb,data/DARPin/metadata_files/6SA7_metadata.json,2,1
-data/DARPin/pdb_files/6SA6.pdb,data/DARPin/metadata_files/6SA6_metadata.json,1,1
-data/DARPin/pdb_files/6MOG.pdb,data/DARPin/metadata_files/6MOG_metadata.json,2,1
-data/DARPin/pdb_files/5KNG.pdb,data/DARPin/metadata_files/5KNG_metadata.json,4,1
-data/DARPin/pdb_files/7TAL.pdb,data/DARPin/metadata_files/7TAL_metadata.json,1,1
-data/DARPin/pdb_files/4J8Y.pdb,data/DARPin/metadata_files/4J8Y_metadata.json,1,1
-data/DARPin/pdb_files/7TCD.pdb,data/DARPin/metadata_files/7TCD_metadata.json,1,1
-data/DARPin/pdb_files/6FP9.pdb,data/DARPin/metadata_files/6FP9_metadata.json,2,1
-data/DARPin/pdb_files/6SA8.pdb,data/DARPin/metadata_files/6SA8_metadata.json,2,2
-data/DARPin/pdb_files/5FIN.pdb,data/DARPin/metadata_files/5FIN_metadata.json,1,1
-data/DARPin/pdb_files/4J7W.pdb,data/DARPin/metadata_files/4J7W_metadata.json,2,1
-data/DARPin/pdb_files/7DNF.pdb,data/DARPin/metadata_files/7DNF_metadata.json,6,2
-data/DARPin/pdb_files/5EYL.pdb,data/DARPin/metadata_files/5EYL_metadata.json,2,1
-data/DARPin/pdb_files/9F24.pdb,data/DARPin/metadata_files/9F24_metadata.json,2,2
-data/DARPin/pdb_files/5OOV.pdb,data/DARPin/metadata_files/5OOV_metadata.json,2,2
-data/DARPin/pdb_files/5OP1.pdb,data/DARPin/metadata_files/5OP1_metadata.json,2,2
-data/DARPin/pdb_files/3HG0.pdb,data/DARPin/metadata_files/3HG0_metadata.json,4,2
-data/DARPin/pdb_files/9F22.pdb,data/DARPin/metadata_files/9F22_metadata.json,2,2
-data/DARPin/pdb_files/5KNH.pdb,data/DARPin/metadata_files/5KNH_metadata.json,2,2
-data/DARPin/pdb_files/7TBQ.pdb,data/DARPin/metadata_files/7TBQ_metadata.json,5,1
-data/DARPin/pdb_files/5OOY.pdb,data/DARPin/metadata_files/5OOY_metadata.json,4,2
-data/DARPin/pdb_files/5AQ8.pdb,data/DARPin/metadata_files/5AQ8_metadata.json,1,1
-data/DARPin/pdb_files/8QZN.pdb,data/DARPin/metadata_files/8QZN_metadata.json,1,1
-data/DARPin/pdb_files/8IPF.pdb,data/DARPin/metadata_files/8IPF_metadata.json,8,1
-data/DARPin/pdb_files/5AQA.pdb,data/DARPin/metadata_files/5AQA_metadata.json,2,1
-data/DARPin/pdb_files/7DNG.pdb,data/DARPin/metadata_files/7DNG_metadata.json,2,2
-data/DARPin/pdb_files/8V9O.pdb,data/DARPin/metadata_files/8V9O_metadata.json,6,2
-data/DARPin/pdb_files/5AQ7.pdb,data/DARPin/metadata_files/5AQ7_metadata.json,2,1
-data/DARPin/pdb_files/7B4T.pdb,data/DARPin/metadata_files/7B4T_metadata.json,2,2
-data/DARPin/pdb_files/7B4U.pdb,data/DARPin/metadata_files/7B4U_metadata.json,4,2
-data/DARPin/pdb_files/7B4V.pdb,data/DARPin/metadata_files/7B4V_metadata.json,4,2
-data/DARPin/pdb_files/7DNE.pdb,data/DARPin/metadata_files/7DNE_metadata.json,4,2
-data/DARPin/pdb_files/9GAU.pdb,data/DARPin/metadata_files/9GAU_metadata.json,2,2
-data/DARPin/pdb_files/2XEE.pdb,data/DARPin/metadata_files/2XEE_metadata.json,4,1
-data/DARPin/pdb_files/8IPP.pdb,data/DARPin/metadata_files/8IPP_metadata.json,2,2
-data/DARPin/pdb_files/6AR6.pdb,data/DARPin/metadata_files/6AR6_metadata.json,2,2
-data/DARPin/pdb_files/5AQB.pdb,data/DARPin/metadata_files/5AQB_metadata.json,2,2
-data/DARPin/pdb_files/7B4W.pdb,data/DARPin/metadata_files/7B4W_metadata.json,4,2
-data/DARPin/pdb_files/7UJJ.pdb,data/DARPin/metadata_files/7UJJ_metadata.json,7,3
-data/DARPin/pdb_files/9F7Z.pdb,data/DARPin/metadata_files/9F7Z_metadata.json,16,2
-data/DARPin/pdb_files/6QEV.pdb,data/DARPin/metadata_files/6QEV_metadata.json,2,2
-data/DARPin/pdb_files/5MBL.pdb,data/DARPin/metadata_files/5MBL_metadata.json,2,2
-data/DARPin/pdb_files/5MBM.pdb,data/DARPin/metadata_files/5MBM_metadata.json,4,2
-data/DARPin/pdb_files/6QEP.pdb,data/DARPin/metadata_files/6QEP_metadata.json,1,1
-data/DARPin/pdb_files/9G8I.pdb,data/DARPin/metadata_files/9G8I_metadata.json,4,2
-data/DARPin/pdb_files/5LE4.pdb,data/DARPin/metadata_files/5LE4_metadata.json,1,1
-data/DARPin/pdb_files/5LEB.pdb,data/DARPin/metadata_files/5LEB_metadata.json,1,1
-data/DARPin/pdb_files/5LED.pdb,data/DARPin/metadata_files/5LED_metadata.json,1,1
-data/DARPin/pdb_files/5LEE.pdb,data/DARPin/metadata_files/5LEE_metadata.json,1,1
-data/DARPin/pdb_files/6MOK.pdb,data/DARPin/metadata_files/6MOK_metadata.json,2,2
-data/DARPin/pdb_files/6QFK.pdb,data/DARPin/metadata_files/6QFK_metadata.json,2,2
-data/DARPin/pdb_files/6QFO.pdb,data/DARPin/metadata_files/6QFO_metadata.json,1,1
-data/DARPin/pdb_files/8G4E.pdb,data/DARPin/metadata_files/8G4E_metadata.json,2,2
-data/DARPin/pdb_files/2J8S.pdb,data/DARPin/metadata_files/2J8S_metadata.json,5,2
-data/DARPin/pdb_files/5LEA.pdb,data/DARPin/metadata_files/5LEA_metadata.json,1,1
-data/DARPin/pdb_files/6MOF.pdb,data/DARPin/metadata_files/6MOF_metadata.json,2,2
-data/DARPin/pdb_files/2V4H.pdb,data/DARPin/metadata_files/2V4H_metadata.json,4,2
-data/DARPin/pdb_files/5LEC.pdb,data/DARPin/metadata_files/5LEC_metadata.json,1,1
-data/DARPin/pdb_files/8G3K.pdb,data/DARPin/metadata_files/8G3K_metadata.json,2,2
-data/DARPin/pdb_files/5LE3.pdb,data/DARPin/metadata_files/5LE3_metadata.json,4,1
-data/DARPin/pdb_files/6MOH.pdb,data/DARPin/metadata_files/6MOH_metadata.json,4,2
-data/DARPin/pdb_files/6MOL.pdb,data/DARPin/metadata_files/6MOL_metadata.json,3,2
-data/DARPin/pdb_files/7Z7C.pdb,data/DARPin/metadata_files/7Z7C_metadata.json,2,2
-data/DARPin/pdb_files/5FIO.pdb,data/DARPin/metadata_files/5FIO_metadata.json,2,2
-data/DARPin/pdb_files/6NHV.pdb,data/DARPin/metadata_files/6NHV_metadata.json,7,3
-data/DARPin/pdb_files/5H76.pdb,data/DARPin/metadata_files/5H76_metadata.json,3,1
-data/DARPin/pdb_files/5LE7.pdb,data/DARPin/metadata_files/5LE7_metadata.json,4,1
-data/DARPin/pdb_files/5LE9.pdb,data/DARPin/metadata_files/5LE9_metadata.json,1,1
-data/DARPin/pdb_files/6MOE.pdb,data/DARPin/metadata_files/6MOE_metadata.json,4,2
-data/DARPin/pdb_files/6MOJ.pdb,data/DARPin/metadata_files/6MOJ_metadata.json,2,2
-data/DARPin/pdb_files/4ATZ.pdb,data/DARPin/metadata_files/4ATZ_metadata.json,6,2
-data/DARPin/pdb_files/7PD8.pdb,data/DARPin/metadata_files/7PD8_metadata.json,2,2
-data/DARPin/pdb_files/7PDD.pdb,data/DARPin/metadata_files/7PDD_metadata.json,2,2
-data/DARPin/pdb_files/7PDG.pdb,data/DARPin/metadata_files/7PDG_metadata.json,2,2
-data/DARPin/pdb_files/7PDH.pdb,data/DARPin/metadata_files/7PDH_metadata.json,2,2
-data/DARPin/pdb_files/5LE2.pdb,data/DARPin/metadata_files/5LE2_metadata.json,2,1
-data/DARPin/pdb_files/6C9K.pdb,data/DARPin/metadata_files/6C9K_metadata.json,24,2
-data/DARPin/pdb_files/8AED.pdb,data/DARPin/metadata_files/8AED_metadata.json,4,2
-data/DARPin/pdb_files/6MWQ.pdb,data/DARPin/metadata_files/6MWQ_metadata.json,8,2
-data/DARPin/pdb_files/4DX6.pdb,data/DARPin/metadata_files/4DX6_metadata.json,5,2
-data/DARPin/pdb_files/6S9S.pdb,data/DARPin/metadata_files/6S9S_metadata.json,2,2
-data/DARPin/pdb_files/8HKH.pdb,data/DARPin/metadata_files/8HKH_metadata.json,4,2
-data/DARPin/pdb_files/5AQ9.pdb,data/DARPin/metadata_files/5AQ9_metadata.json,4,2
-data/DARPin/pdb_files/6S9T.pdb,data/DARPin/metadata_files/6S9T_metadata.json,2,2
-data/DARPin/pdb_files/4DX5.pdb,data/DARPin/metadata_files/4DX5_metadata.json,5,2
-data/DARPin/pdb_files/4DX7.pdb,data/DARPin/metadata_files/4DX7_metadata.json,5,2
-data/DARPin/pdb_files/7TZ0.pdb,data/DARPin/metadata_files/7TZ0_metadata.json,2,2
-data/DARPin/pdb_files/9DP8.pdb,data/DARPin/metadata_files/9DP8_metadata.json,1,1
-data/DARPin/pdb_files/9DVG.pdb,data/DARPin/metadata_files/9DVG_metadata.json,1,1
-data/DARPin/pdb_files/9Q4D.pdb,data/DARPin/metadata_files/9Q4D_metadata.json,1,1
-data/DARPin/pdb_files/5LE6.pdb,data/DARPin/metadata_files/5LE6_metadata.json,6,1
-data/DARPin/pdb_files/4JB8.pdb,data/DARPin/metadata_files/4JB8_metadata.json,3,3
-data/DARPin/pdb_files/5MLA.pdb,data/DARPin/metadata_files/5MLA_metadata.json,2,2
-data/DARPin/pdb_files/5O2T.pdb,data/DARPin/metadata_files/5O2T_metadata.json,2,2
-data/DARPin/pdb_files/6H47.pdb,data/DARPin/metadata_files/6H47_metadata.json,2,2
-data/DARPin/pdb_files/5LE8.pdb,data/DARPin/metadata_files/5LE8_metadata.json,2,1
-data/DARPin/pdb_files/6C9I.pdb,data/DARPin/metadata_files/6C9I_metadata.json,24,2
-data/DARPin/pdb_files/6SH9.pdb,data/DARPin/metadata_files/6SH9_metadata.json,2,2
-data/DARPin/pdb_files/9DAM.pdb,data/DARPin/metadata_files/9DAM_metadata.json,1,1
-data/DARPin/pdb_files/9DB5.pdb,data/DARPin/metadata_files/9DB5_metadata.json,1,1
-data/DARPin/pdb_files/6FP7.pdb,data/DARPin/metadata_files/6FP7_metadata.json,2,2
-data/DARPin/pdb_files/6FP8.pdb,data/DARPin/metadata_files/6FP8_metadata.json,2,2
-data/DARPin/pdb_files/9FE3.pdb,data/DARPin/metadata_files/9FE3_metadata.json,2,2
-data/DARPin/pdb_files/9FHJ.pdb,data/DARPin/metadata_files/9FHJ_metadata.json,2,2
-data/DARPin/pdb_files/5AAO.pdb,data/DARPin/metadata_files/5AAO_metadata.json,12,1
-data/DARPin/pdb_files/5MLB.pdb,data/DARPin/metadata_files/5MLB_metadata.json,8,2
-data/DARPin/pdb_files/5O2S.pdb,data/DARPin/metadata_files/5O2S_metadata.json,8,2
-data/DARPin/pdb_files/6H46.pdb,data/DARPin/metadata_files/6H46_metadata.json,2,2
-data/DARPin/pdb_files/9E4Q.pdb,data/DARPin/metadata_files/9E4Q_metadata.json,1,1
-data/DARPin/pdb_files/3NOC.pdb,data/DARPin/metadata_files/3NOC_metadata.json,5,2
-data/DARPin/pdb_files/7X4N.pdb,data/DARPin/metadata_files/7X4N_metadata.json,4,4
-data/DARPin/pdb_files/6NHT.pdb,data/DARPin/metadata_files/6NHT_metadata.json,24,2
-data/DARPin/pdb_files/7PJE.pdb,data/DARPin/metadata_files/7PJE_metadata.json,6,3
-data/DARPin/pdb_files/9FE2.pdb,data/DARPin/metadata_files/9FE2_metadata.json,2,2
-data/DARPin/pdb_files/9FHC.pdb,data/DARPin/metadata_files/9FHC_metadata.json,2,2
-data/DARPin/pdb_files/9HCI.pdb,data/DARPin/metadata_files/9HCI_metadata.json,5,2
-data/DARPin/pdb_files/3NOG.pdb,data/DARPin/metadata_files/3NOG_metadata.json,5,2
-data/DARPin/pdb_files/6ZWB.pdb,data/DARPin/metadata_files/6ZWB_metadata.json,3,3
-data/DARPin/pdb_files/6ZWC.pdb,data/DARPin/metadata_files/6ZWC_metadata.json,3,3
-data/DARPin/pdb_files/7MXI.pdb,data/DARPin/metadata_files/7MXI_metadata.json,6,3
-data/DARPin/pdb_files/8CL9.pdb,data/DARPin/metadata_files/8CL9_metadata.json,3,3
-data/DARPin/pdb_files/9GTK.pdb,data/DARPin/metadata_files/9GTK_metadata.json,6,2
-data/DARPin/pdb_files/4C48.pdb,data/DARPin/metadata_files/4C48_metadata.json,3,3
-data/DARPin/pdb_files/5NQT.pdb,data/DARPin/metadata_files/5NQT_metadata.json,3,3
-data/DARPin/pdb_files/5NQU.pdb,data/DARPin/metadata_files/5NQU_metadata.json,3,3
-data/DARPin/pdb_files/7Z01.pdb,data/DARPin/metadata_files/7Z01_metadata.json,3,3
-data/DARPin/pdb_files/7Z02.pdb,data/DARPin/metadata_files/7Z02_metadata.json,3,3
-data/DARPin/pdb_files/8CLA.pdb,data/DARPin/metadata_files/8CLA_metadata.json,3,3
-data/DARPin/pdb_files/4DRX.pdb,data/DARPin/metadata_files/4DRX_metadata.json,6,3
-data/DARPin/pdb_files/4LSZ.pdb,data/DARPin/metadata_files/4LSZ_metadata.json,6,3
-data/DARPin/pdb_files/6GVM.pdb,data/DARPin/metadata_files/6GVM_metadata.json,4,4
-data/DARPin/pdb_files/6GVN.pdb,data/DARPin/metadata_files/6GVN_metadata.json,3,3
-data/DARPin/pdb_files/6ZOE.pdb,data/DARPin/metadata_files/6ZOE_metadata.json,2,2
-data/DARPin/pdb_files/9FHG.pdb,data/DARPin/metadata_files/9FHG_metadata.json,5,2
-data/DARPin/pdb_files/9HAO.pdb,data/DARPin/metadata_files/9HAO_metadata.json,5,2
-data/DARPin/pdb_files/2JAB.pdb,data/DARPin/metadata_files/2JAB_metadata.json,3,1
-data/DARPin/pdb_files/5LW2.pdb,data/DARPin/metadata_files/5LW2_metadata.json,1,1
-data/DARPin/pdb_files/7P3I.pdb,data/DARPin/metadata_files/7P3I_metadata.json,4,2
-data/DARPin/pdb_files/4U96.pdb,data/DARPin/metadata_files/4U96_metadata.json,5,2
-data/DARPin/pdb_files/5NM5.pdb,data/DARPin/metadata_files/5NM5_metadata.json,3,3
-data/DARPin/pdb_files/6SGT.pdb,data/DARPin/metadata_files/6SGT_metadata.json,5,2
-data/DARPin/pdb_files/6SGU.pdb,data/DARPin/metadata_files/6SGU_metadata.json,5,2
-data/DARPin/pdb_files/7AC5.pdb,data/DARPin/metadata_files/7AC5_metadata.json,3,3
-data/DARPin/pdb_files/8VDZ.pdb,data/DARPin/metadata_files/8VDZ_metadata.json,24,2
-data/DARPin/pdb_files/8QEA.pdb,data/DARPin/metadata_files/8QEA_metadata.json,3,3
-data/DARPin/pdb_files/8QL2.pdb,data/DARPin/metadata_files/8QL2_metadata.json,3,3
-data/DARPin/pdb_files/8QL3.pdb,data/DARPin/metadata_files/8QL3_metadata.json,3,3
-data/DARPin/pdb_files/8QL4.pdb,data/DARPin/metadata_files/8QL4_metadata.json,3,3
-data/DARPin/pdb_files/8QL5.pdb,data/DARPin/metadata_files/8QL5_metadata.json,3,3
-data/DARPin/pdb_files/8QL6.pdb,data/DARPin/metadata_files/8QL6_metadata.json,3,3
-data/DARPin/pdb_files/8QL7.pdb,data/DARPin/metadata_files/8QL7_metadata.json,3,3
-data/DARPin/pdb_files/4U8V.pdb,data/DARPin/metadata_files/4U8V_metadata.json,5,2
-data/DARPin/pdb_files/4U8Y.pdb,data/DARPin/metadata_files/4U8Y_metadata.json,5,2
-data/DARPin/pdb_files/4U95.pdb,data/DARPin/metadata_files/4U95_metadata.json,5,2
-data/DARPin/pdb_files/7TYZ.pdb,data/DARPin/metadata_files/7TYZ_metadata.json,6,2
-data/DARPin/pdb_files/5EYP.pdb,data/DARPin/metadata_files/5EYP_metadata.json,3,3
-data/DARPin/pdb_files/6SGS.pdb,data/DARPin/metadata_files/6SGS_metadata.json,8,3
-data/DARPin/pdb_files/7N2B.pdb,data/DARPin/metadata_files/7N2B_metadata.json,2,1
-data/DARPin/pdb_files/8QL8.pdb,data/DARPin/metadata_files/8QL8_metadata.json,3,3
-data/DARPin/pdb_files/8QL9.pdb,data/DARPin/metadata_files/8QL9_metadata.json,3,3
-data/DARPin/pdb_files/8QLA.pdb,data/DARPin/metadata_files/8QLA_metadata.json,3,3
-data/DARPin/pdb_files/8QLB.pdb,data/DARPin/metadata_files/8QLB_metadata.json,3,3
-data/DARPin/pdb_files/9FE1.pdb,data/DARPin/metadata_files/9FE1_metadata.json,4,4
-data/DARPin/pdb_files/7Z7E.pdb,data/DARPin/metadata_files/7Z7E_metadata.json,2,2
-data/DARPin/pdb_files/5LEM.pdb,data/DARPin/metadata_files/5LEM_metadata.json,3,3
-data/DARPin/pdb_files/5MA4.pdb,data/DARPin/metadata_files/5MA4_metadata.json,2,2
-data/DARPin/pdb_files/6GCU.pdb,data/DARPin/metadata_files/6GCU_metadata.json,6,3
-data/DARPin/pdb_files/9GNB.pdb,data/DARPin/metadata_files/9GNB_metadata.json,2,2
-data/DARPin/pdb_files/6SGR.pdb,data/DARPin/metadata_files/6SGR_metadata.json,8,3
-data/DARPin/pdb_files/8DW3.pdb,data/DARPin/metadata_files/8DW3_metadata.json,6,6
-data/DARPin/pdb_files/5EN5.pdb,data/DARPin/metadata_files/5EN5_metadata.json,6,2
-data/DARPin/pdb_files/5ENO.pdb,data/DARPin/metadata_files/5ENO_metadata.json,6,2
-data/DARPin/pdb_files/5ENP.pdb,data/DARPin/metadata_files/5ENP_metadata.json,6,2
-data/DARPin/pdb_files/5ENQ.pdb,data/DARPin/metadata_files/5ENQ_metadata.json,6,2
-data/DARPin/pdb_files/5ENR.pdb,data/DARPin/metadata_files/5ENR_metadata.json,6,2
-data/DARPin/pdb_files/5ENS.pdb,data/DARPin/metadata_files/5ENS_metadata.json,6,2
-data/DARPin/pdb_files/6S8K.pdb,data/DARPin/metadata_files/6S8K_metadata.json,3,3
-data/DARPin/pdb_files/7B8S.pdb,data/DARPin/metadata_files/7B8S_metadata.json,6,2
-data/DARPin/pdb_files/7PJF.pdb,data/DARPin/metadata_files/7PJF_metadata.json,3,3
-data/DARPin/pdb_files/7YZ6.pdb,data/DARPin/metadata_files/7YZ6_metadata.json,3,3
-data/DARPin/pdb_files/6MOI.pdb,data/DARPin/metadata_files/6MOI_metadata.json,2,2
-data/DARPin/pdb_files/5MA3.pdb,data/DARPin/metadata_files/5MA3_metadata.json,2,2
-data/DARPin/pdb_files/6F5E.pdb,data/DARPin/metadata_files/6F5E_metadata.json,3,3
-data/DARPin/pdb_files/2Y1L.pdb,data/DARPin/metadata_files/2Y1L_metadata.json,8,5
-data/DARPin/pdb_files/5LEL.pdb,data/DARPin/metadata_files/5LEL_metadata.json,9,3
-data/DARPin/pdb_files/5MA6.pdb,data/DARPin/metadata_files/5MA6_metadata.json,2,2
-data/DARPin/pdb_files/5MA8.pdb,data/DARPin/metadata_files/5MA8_metadata.json,4,2
-data/DARPin/pdb_files/5ENT.pdb,data/DARPin/metadata_files/5ENT_metadata.json,6,2
-data/DARPin/pdb_files/7B8R.pdb,data/DARPin/metadata_files/7B8R_metadata.json,6,2
-data/DARPin/pdb_files/7B8T.pdb,data/DARPin/metadata_files/7B8T_metadata.json,6,2
-data/DARPin/pdb_files/7ODN.pdb,data/DARPin/metadata_files/7ODN_metadata.json,3,3
-data/DARPin/pdb_files/7YYY.pdb,data/DARPin/metadata_files/7YYY_metadata.json,3,3
-data/DARPin/pdb_files/7YYZ.pdb,data/DARPin/metadata_files/7YYZ_metadata.json,3,3
-data/DARPin/pdb_files/7YZ0.pdb,data/DARPin/metadata_files/7YZ0_metadata.json,3,3
-data/DARPin/pdb_files/7YZ1.pdb,data/DARPin/metadata_files/7YZ1_metadata.json,3,3
-data/DARPin/pdb_files/7YZ2.pdb,data/DARPin/metadata_files/7YZ2_metadata.json,3,3
-data/DARPin/pdb_files/7YZ3.pdb,data/DARPin/metadata_files/7YZ3_metadata.json,3,3
-data/DARPin/pdb_files/7YZ5.pdb,data/DARPin/metadata_files/7YZ5_metadata.json,3,3
-data/DARPin/pdb_files/2ZVN.pdb,data/DARPin/metadata_files/2ZVN_metadata.json,8,2
-data/DARPin/pdb_files/5LW1.pdb,data/DARPin/metadata_files/5LW1_metadata.json,10,4
-data/DARPin/pdb_files/4LNU.pdb,data/DARPin/metadata_files/4LNU_metadata.json,4,4
-data/DARPin/pdb_files/7Z71.pdb,data/DARPin/metadata_files/7Z71_metadata.json,4,2
-data/DARPin/pdb_files/7Z72.pdb,data/DARPin/metadata_files/7Z72_metadata.json,2,2
-data/DARPin/pdb_files/7Z73.pdb,data/DARPin/metadata_files/7Z73_metadata.json,6,2
-data/DARPin/pdb_files/4BWN.pdb,data/DARPin/metadata_files/4BWN_metadata.json,2,1
-data/DARPin/pdb_files/6S8L.pdb,data/DARPin/metadata_files/6S8L_metadata.json,3,3
-data/DARPin/pdb_files/7ALR.pdb,data/DARPin/metadata_files/7ALR_metadata.json,3,3
-data/DARPin/pdb_files/8A19.pdb,data/DARPin/metadata_files/8A19_metadata.json,2,2
-data/DARPin/pdb_files/8A1A.pdb,data/DARPin/metadata_files/8A1A_metadata.json,2,2
-data/DARPin/pdb_files/5MIO.pdb,data/DARPin/metadata_files/5MIO_metadata.json,3,3
-data/DARPin/pdb_files/6ZOA.pdb,data/DARPin/metadata_files/6ZOA_metadata.json,5,2
-data/DARPin/pdb_files/6ZOF.pdb,data/DARPin/metadata_files/6ZOF_metadata.json,5,2
-data/DARPin/pdb_files/6ZOH.pdb,data/DARPin/metadata_files/6ZOH_metadata.json,5,2
-data/DARPin/pdb_files/7OUL.pdb,data/DARPin/metadata_files/7OUL_metadata.json,5,2
-data/DARPin/pdb_files/7OUM.pdb,data/DARPin/metadata_files/7OUM_metadata.json,5,2
-data/DARPin/pdb_files/5MA9.pdb,data/DARPin/metadata_files/5MA9_metadata.json,8,2
-data/DARPin/pdb_files/6FES.pdb,data/DARPin/metadata_files/6FES_metadata.json,4,1
-data/DARPin/pdb_files/9BOI.pdb,data/DARPin/metadata_files/9BOI_metadata.json,1,1
-data/DARPin/pdb_files/5JMN.pdb,data/DARPin/metadata_files/5JMN_metadata.json,5,2
-data/DARPin/pdb_files/6Q4N.pdb,data/DARPin/metadata_files/6Q4N_metadata.json,5,2
-data/DARPin/pdb_files/6Q4O.pdb,data/DARPin/metadata_files/6Q4O_metadata.json,5,2
-data/DARPin/pdb_files/6Q4P.pdb,data/DARPin/metadata_files/6Q4P_metadata.json,5,2
-data/DARPin/pdb_files/6ZO5.pdb,data/DARPin/metadata_files/6ZO5_metadata.json,5,2
-data/DARPin/pdb_files/6ZO7.pdb,data/DARPin/metadata_files/6ZO7_metadata.json,5,2
-data/DARPin/pdb_files/6ZO8.pdb,data/DARPin/metadata_files/6ZO8_metadata.json,5,2
-data/DARPin/pdb_files/6ZO9.pdb,data/DARPin/metadata_files/6ZO9_metadata.json,5,2
-data/DARPin/pdb_files/6ZOB.pdb,data/DARPin/metadata_files/6ZOB_metadata.json,5,2
-data/DARPin/pdb_files/6ZOC.pdb,data/DARPin/metadata_files/6ZOC_metadata.json,5,2
-data/DARPin/pdb_files/6ZOD.pdb,data/DARPin/metadata_files/6ZOD_metadata.json,5,2
-data/DARPin/pdb_files/6ZOG.pdb,data/DARPin/metadata_files/6ZOG_metadata.json,5,2
-data/DARPin/pdb_files/7OUK.pdb,data/DARPin/metadata_files/7OUK_metadata.json,5,2
-data/DARPin/pdb_files/8G42.pdb,data/DARPin/metadata_files/8G42_metadata.json,2,2
-data/DARPin/pdb_files/8G4F.pdb,data/DARPin/metadata_files/8G4F_metadata.json,2,2
-data/DARPin/pdb_files/8G4H.pdb,data/DARPin/metadata_files/8G4H_metadata.json,2,2
-data/DARPin/pdb_files/9YMG.pdb,data/DARPin/metadata_files/9YMG_metadata.json,6,3
-data/DARPin/pdb_files/5MAD.pdb,data/DARPin/metadata_files/5MAD_metadata.json,8,2
-data/DARPin/pdb_files/5MAK.pdb,data/DARPin/metadata_files/5MAK_metadata.json,4,2
-data/DARPin/pdb_files/4YDY.pdb,data/DARPin/metadata_files/4YDY_metadata.json,4,2
-data/DARPin/pdb_files/9R8C.pdb,data/DARPin/metadata_files/9R8C_metadata.json,4,2
-data/DARPin/pdb_files/4F6R.pdb,data/DARPin/metadata_files/4F6R_metadata.json,4,4
-data/DARPin/pdb_files/5NC5.pdb,data/DARPin/metadata_files/5NC5_metadata.json,8,3
-data/DARPin/pdb_files/6MZG.pdb,data/DARPin/metadata_files/6MZG_metadata.json,12,4
-data/DARPin/pdb_files/6ZO6.pdb,data/DARPin/metadata_files/6ZO6_metadata.json,5,2
-data/DARPin/pdb_files/8G47.pdb,data/DARPin/metadata_files/8G47_metadata.json,2,2
-data/DARPin/pdb_files/5MA5.pdb,data/DARPin/metadata_files/5MA5_metadata.json,4,2
-data/DARPin/pdb_files/4HNA.pdb,data/DARPin/metadata_files/4HNA_metadata.json,4,4
-data/DARPin/pdb_files/3F89.pdb,data/DARPin/metadata_files/3F89_metadata.json,2,1
-data/DARPin/pdb_files/5ITZ.pdb,data/DARPin/metadata_files/5ITZ_metadata.json,4,4
-data/DARPin/pdb_files/2XZD.pdb,data/DARPin/metadata_files/2XZD_metadata.json,6,3
-data/DARPin/pdb_files/2XZT.pdb,data/DARPin/metadata_files/2XZT_metadata.json,6,3
-data/DARPin/pdb_files/2Y0B.pdb,data/DARPin/metadata_files/2Y0B_metadata.json,6,3
-data/DARPin/pdb_files/6BBN.pdb,data/DARPin/metadata_files/6BBN_metadata.json,6,4
-data/DARPin/pdb_files/6MZF.pdb,data/DARPin/metadata_files/6MZF_metadata.json,28,4
-data/DARPin/pdb_files/3FX0.pdb,data/DARPin/metadata_files/3FX0_metadata.json,2,1
-data/DARPin/pdb_files/7TXD.pdb,data/DARPin/metadata_files/7TXD_metadata.json,12,4
-data/DARPin/pdb_files/5OYJ.pdb,data/DARPin/metadata_files/5OYJ_metadata.json,4,2
-data/DARPin/pdb_files/6MZE.pdb,data/DARPin/metadata_files/6MZE_metadata.json,28,4
-data/DARPin/pdb_files/2ZVO.pdb,data/DARPin/metadata_files/2ZVO_metadata.json,4,2
-data/DARPin/pdb_files/8RCI.pdb,data/DARPin/metadata_files/8RCI_metadata.json,2,2
-data/DARPin/pdb_files/9FZB.pdb,data/DARPin/metadata_files/9FZB_metadata.json,2,2
-data/DARPin/pdb_files/8P9C.pdb,data/DARPin/metadata_files/8P9C_metadata.json,3,3
-data/DARPin/pdb_files/8P9D.pdb,data/DARPin/metadata_files/8P9D_metadata.json,6,3
-data/DARPin/pdb_files/8P9E.pdb,data/DARPin/metadata_files/8P9E_metadata.json,3,3
-data/DARPin/pdb_files/2V5Q.pdb,data/DARPin/metadata_files/2V5Q_metadata.json,4,2
-data/DARPin/pdb_files/3JSV.pdb,data/DARPin/metadata_files/3JSV_metadata.json,4,3
-data/DARPin/pdb_files/4OWF.pdb,data/DARPin/metadata_files/4OWF_metadata.json,3,2
-data/DARPin/pdb_files/8U1B.pdb,data/DARPin/metadata_files/8U1B_metadata.json,2,2
-data/DARPin/pdb_files/9R1X.pdb,data/DARPin/metadata_files/9R1X_metadata.json,2,1
-data/DARPin/pdb_files/8DW2.pdb,data/DARPin/metadata_files/8DW2_metadata.json,6,6
-data/DARPin/pdb_files/8TZC.pdb,data/DARPin/metadata_files/8TZC_metadata.json,2,2
-data/DARPin/pdb_files/7ZYU.pdb,data/DARPin/metadata_files/7ZYU_metadata.json,2,2
-data/DARPin/pdb_files/8TZH.pdb,data/DARPin/metadata_files/8TZH_metadata.json,2,2
-data/DARPin/pdb_files/2P2C.pdb,data/DARPin/metadata_files/2P2C_metadata.json,18,3
-data/DARPin/pdb_files/6D67.pdb,data/DARPin/metadata_files/6D67_metadata.json,2,2
-data/DARPin/pdb_files/5EIB.pdb,data/DARPin/metadata_files/5EIB_metadata.json,4,4
-data/DARPin/pdb_files/6D66.pdb,data/DARPin/metadata_files/6D66_metadata.json,2,2
-data/DARPin/pdb_files/6D65.pdb,data/DARPin/metadata_files/6D65_metadata.json,4,2
+pdb_file,metadata_file,protein_chains,polymer_composition
+data/DARPin/pdb_files/5OOU.pdb,data/DARPin/metadata_files/5OOU_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5OOS.pdb,data/DARPin/metadata_files/5OOS_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/4YDW.pdb,data/DARPin/metadata_files/4YDW_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/9EPA.pdb,data/DARPin/metadata_files/9EPA_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/4DUI.pdb,data/DARPin/metadata_files/4DUI_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5OP3.pdb,data/DARPin/metadata_files/5OP3_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/8VE7.pdb,data/DARPin/metadata_files/8VE7_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/7TBN.pdb,data/DARPin/metadata_files/7TBN_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/7TBO.pdb,data/DARPin/metadata_files/7TBO_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/9IRV.pdb,data/DARPin/metadata_files/9IRV_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6FPB.pdb,data/DARPin/metadata_files/6FPB_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6FPA.pdb,data/DARPin/metadata_files/6FPA_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6SA7.pdb,data/DARPin/metadata_files/6SA7_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6SA6.pdb,data/DARPin/metadata_files/6SA6_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6MOG.pdb,data/DARPin/metadata_files/6MOG_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/5KNG.pdb,data/DARPin/metadata_files/5KNG_metadata.json,4,homomeric protein
+data/DARPin/pdb_files/7TAL.pdb,data/DARPin/metadata_files/7TAL_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/4J8Y.pdb,data/DARPin/metadata_files/4J8Y_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/7TCD.pdb,data/DARPin/metadata_files/7TCD_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6FP9.pdb,data/DARPin/metadata_files/6FP9_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6SA8.pdb,data/DARPin/metadata_files/6SA8_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5FIN.pdb,data/DARPin/metadata_files/5FIN_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/4J7W.pdb,data/DARPin/metadata_files/4J7W_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/7DNF.pdb,data/DARPin/metadata_files/7DNF_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5EYL.pdb,data/DARPin/metadata_files/5EYL_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/9F24.pdb,data/DARPin/metadata_files/9F24_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5OOV.pdb,data/DARPin/metadata_files/5OOV_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5OP1.pdb,data/DARPin/metadata_files/5OP1_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/3HG0.pdb,data/DARPin/metadata_files/3HG0_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/9F22.pdb,data/DARPin/metadata_files/9F22_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5KNH.pdb,data/DARPin/metadata_files/5KNH_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7TBQ.pdb,data/DARPin/metadata_files/7TBQ_metadata.json,5,homomeric protein
+data/DARPin/pdb_files/5OOY.pdb,data/DARPin/metadata_files/5OOY_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5AQ8.pdb,data/DARPin/metadata_files/5AQ8_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/8QZN.pdb,data/DARPin/metadata_files/8QZN_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/8IPF.pdb,data/DARPin/metadata_files/8IPF_metadata.json,8,homomeric protein
+data/DARPin/pdb_files/5AQA.pdb,data/DARPin/metadata_files/5AQA_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/7DNG.pdb,data/DARPin/metadata_files/7DNG_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8V9O.pdb,data/DARPin/metadata_files/8V9O_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5AQ7.pdb,data/DARPin/metadata_files/5AQ7_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/7B4T.pdb,data/DARPin/metadata_files/7B4T_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7B4U.pdb,data/DARPin/metadata_files/7B4U_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7B4V.pdb,data/DARPin/metadata_files/7B4V_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7DNE.pdb,data/DARPin/metadata_files/7DNE_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/9GAU.pdb,data/DARPin/metadata_files/9GAU_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/2XEE.pdb,data/DARPin/metadata_files/2XEE_metadata.json,4,homomeric protein
+data/DARPin/pdb_files/8IPP.pdb,data/DARPin/metadata_files/8IPP_metadata.json,2,protein/NA
+data/DARPin/pdb_files/6AR6.pdb,data/DARPin/metadata_files/6AR6_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5AQB.pdb,data/DARPin/metadata_files/5AQB_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7B4W.pdb,data/DARPin/metadata_files/7B4W_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7UJJ.pdb,data/DARPin/metadata_files/7UJJ_metadata.json,7,heteromeric protein
+data/DARPin/pdb_files/9F7Z.pdb,data/DARPin/metadata_files/9F7Z_metadata.json,16,protein/oligosaccharide
+data/DARPin/pdb_files/6QEV.pdb,data/DARPin/metadata_files/6QEV_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MBL.pdb,data/DARPin/metadata_files/5MBL_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MBM.pdb,data/DARPin/metadata_files/5MBM_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6QEP.pdb,data/DARPin/metadata_files/6QEP_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/9G8I.pdb,data/DARPin/metadata_files/9G8I_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5LE4.pdb,data/DARPin/metadata_files/5LE4_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5LEB.pdb,data/DARPin/metadata_files/5LEB_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5LED.pdb,data/DARPin/metadata_files/5LED_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5LEE.pdb,data/DARPin/metadata_files/5LEE_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6MOK.pdb,data/DARPin/metadata_files/6MOK_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6QFK.pdb,data/DARPin/metadata_files/6QFK_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6QFO.pdb,data/DARPin/metadata_files/6QFO_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/8G4E.pdb,data/DARPin/metadata_files/8G4E_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/2J8S.pdb,data/DARPin/metadata_files/2J8S_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/5LEA.pdb,data/DARPin/metadata_files/5LEA_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6MOF.pdb,data/DARPin/metadata_files/6MOF_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/2V4H.pdb,data/DARPin/metadata_files/2V4H_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5LEC.pdb,data/DARPin/metadata_files/5LEC_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/8G3K.pdb,data/DARPin/metadata_files/8G3K_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5LE3.pdb,data/DARPin/metadata_files/5LE3_metadata.json,4,homomeric protein
+data/DARPin/pdb_files/6MOH.pdb,data/DARPin/metadata_files/6MOH_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6MOL.pdb,data/DARPin/metadata_files/6MOL_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7Z7C.pdb,data/DARPin/metadata_files/7Z7C_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5FIO.pdb,data/DARPin/metadata_files/5FIO_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6NHV.pdb,data/DARPin/metadata_files/6NHV_metadata.json,7,heteromeric protein
+data/DARPin/pdb_files/5H76.pdb,data/DARPin/metadata_files/5H76_metadata.json,3,homomeric protein
+data/DARPin/pdb_files/5LE7.pdb,data/DARPin/metadata_files/5LE7_metadata.json,4,homomeric protein
+data/DARPin/pdb_files/5LE9.pdb,data/DARPin/metadata_files/5LE9_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6MOE.pdb,data/DARPin/metadata_files/6MOE_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6MOJ.pdb,data/DARPin/metadata_files/6MOJ_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/4ATZ.pdb,data/DARPin/metadata_files/4ATZ_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/7PD8.pdb,data/DARPin/metadata_files/7PD8_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7PDD.pdb,data/DARPin/metadata_files/7PDD_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7PDG.pdb,data/DARPin/metadata_files/7PDG_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7PDH.pdb,data/DARPin/metadata_files/7PDH_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5LE2.pdb,data/DARPin/metadata_files/5LE2_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6C9K.pdb,data/DARPin/metadata_files/6C9K_metadata.json,24,heteromeric protein
+data/DARPin/pdb_files/8AED.pdb,data/DARPin/metadata_files/8AED_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6MWQ.pdb,data/DARPin/metadata_files/6MWQ_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/4DX6.pdb,data/DARPin/metadata_files/4DX6_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6S9S.pdb,data/DARPin/metadata_files/6S9S_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8HKH.pdb,data/DARPin/metadata_files/8HKH_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5AQ9.pdb,data/DARPin/metadata_files/5AQ9_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6S9T.pdb,data/DARPin/metadata_files/6S9T_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/4DX5.pdb,data/DARPin/metadata_files/4DX5_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/4DX7.pdb,data/DARPin/metadata_files/4DX7_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7TZ0.pdb,data/DARPin/metadata_files/7TZ0_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9DP8.pdb,data/DARPin/metadata_files/9DP8_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/9DVG.pdb,data/DARPin/metadata_files/9DVG_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/9Q4D.pdb,data/DARPin/metadata_files/9Q4D_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5LE6.pdb,data/DARPin/metadata_files/5LE6_metadata.json,6,homomeric protein
+data/DARPin/pdb_files/4JB8.pdb,data/DARPin/metadata_files/4JB8_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/5MLA.pdb,data/DARPin/metadata_files/5MLA_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5O2T.pdb,data/DARPin/metadata_files/5O2T_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6H47.pdb,data/DARPin/metadata_files/6H47_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5LE8.pdb,data/DARPin/metadata_files/5LE8_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6C9I.pdb,data/DARPin/metadata_files/6C9I_metadata.json,24,heteromeric protein
+data/DARPin/pdb_files/6SH9.pdb,data/DARPin/metadata_files/6SH9_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9DAM.pdb,data/DARPin/metadata_files/9DAM_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/9DB5.pdb,data/DARPin/metadata_files/9DB5_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/6FP7.pdb,data/DARPin/metadata_files/6FP7_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6FP8.pdb,data/DARPin/metadata_files/6FP8_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9FE3.pdb,data/DARPin/metadata_files/9FE3_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9FHJ.pdb,data/DARPin/metadata_files/9FHJ_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5AAO.pdb,data/DARPin/metadata_files/5AAO_metadata.json,12,homomeric protein
+data/DARPin/pdb_files/5MLB.pdb,data/DARPin/metadata_files/5MLB_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/5O2S.pdb,data/DARPin/metadata_files/5O2S_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/6H46.pdb,data/DARPin/metadata_files/6H46_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9E4Q.pdb,data/DARPin/metadata_files/9E4Q_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/3NOC.pdb,data/DARPin/metadata_files/3NOC_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7X4N.pdb,data/DARPin/metadata_files/7X4N_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6NHT.pdb,data/DARPin/metadata_files/6NHT_metadata.json,24,heteromeric protein
+data/DARPin/pdb_files/7PJE.pdb,data/DARPin/metadata_files/7PJE_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/9FE2.pdb,data/DARPin/metadata_files/9FE2_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9FHC.pdb,data/DARPin/metadata_files/9FHC_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9HCI.pdb,data/DARPin/metadata_files/9HCI_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/3NOG.pdb,data/DARPin/metadata_files/3NOG_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZWB.pdb,data/DARPin/metadata_files/6ZWB_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6ZWC.pdb,data/DARPin/metadata_files/6ZWC_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7MXI.pdb,data/DARPin/metadata_files/7MXI_metadata.json,6,protein/oligosaccharide
+data/DARPin/pdb_files/8CL9.pdb,data/DARPin/metadata_files/8CL9_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/9GTK.pdb,data/DARPin/metadata_files/9GTK_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/4C48.pdb,data/DARPin/metadata_files/4C48_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/5NQT.pdb,data/DARPin/metadata_files/5NQT_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/5NQU.pdb,data/DARPin/metadata_files/5NQU_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7Z01.pdb,data/DARPin/metadata_files/7Z01_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7Z02.pdb,data/DARPin/metadata_files/7Z02_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8CLA.pdb,data/DARPin/metadata_files/8CLA_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/4DRX.pdb,data/DARPin/metadata_files/4DRX_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/4LSZ.pdb,data/DARPin/metadata_files/4LSZ_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/6GVM.pdb,data/DARPin/metadata_files/6GVM_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6GVN.pdb,data/DARPin/metadata_files/6GVN_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6ZOE.pdb,data/DARPin/metadata_files/6ZOE_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9FHG.pdb,data/DARPin/metadata_files/9FHG_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/9HAO.pdb,data/DARPin/metadata_files/9HAO_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/2JAB.pdb,data/DARPin/metadata_files/2JAB_metadata.json,3,homomeric protein
+data/DARPin/pdb_files/5LW2.pdb,data/DARPin/metadata_files/5LW2_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/7P3I.pdb,data/DARPin/metadata_files/7P3I_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/4U96.pdb,data/DARPin/metadata_files/4U96_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/5NM5.pdb,data/DARPin/metadata_files/5NM5_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6SGT.pdb,data/DARPin/metadata_files/6SGT_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6SGU.pdb,data/DARPin/metadata_files/6SGU_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7AC5.pdb,data/DARPin/metadata_files/7AC5_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8VDZ.pdb,data/DARPin/metadata_files/8VDZ_metadata.json,24,heteromeric protein
+data/DARPin/pdb_files/8QEA.pdb,data/DARPin/metadata_files/8QEA_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL2.pdb,data/DARPin/metadata_files/8QL2_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL3.pdb,data/DARPin/metadata_files/8QL3_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL4.pdb,data/DARPin/metadata_files/8QL4_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL5.pdb,data/DARPin/metadata_files/8QL5_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL6.pdb,data/DARPin/metadata_files/8QL6_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL7.pdb,data/DARPin/metadata_files/8QL7_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/4U8V.pdb,data/DARPin/metadata_files/4U8V_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/4U8Y.pdb,data/DARPin/metadata_files/4U8Y_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/4U95.pdb,data/DARPin/metadata_files/4U95_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7TYZ.pdb,data/DARPin/metadata_files/7TYZ_metadata.json,6,protein/oligosaccharide
+data/DARPin/pdb_files/5EYP.pdb,data/DARPin/metadata_files/5EYP_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6SGS.pdb,data/DARPin/metadata_files/6SGS_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/7N2B.pdb,data/DARPin/metadata_files/7N2B_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/8QL8.pdb,data/DARPin/metadata_files/8QL8_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QL9.pdb,data/DARPin/metadata_files/8QL9_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QLA.pdb,data/DARPin/metadata_files/8QLA_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8QLB.pdb,data/DARPin/metadata_files/8QLB_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/9FE1.pdb,data/DARPin/metadata_files/9FE1_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7Z7E.pdb,data/DARPin/metadata_files/7Z7E_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5LEM.pdb,data/DARPin/metadata_files/5LEM_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/5MA4.pdb,data/DARPin/metadata_files/5MA4_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6GCU.pdb,data/DARPin/metadata_files/6GCU_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/9GNB.pdb,data/DARPin/metadata_files/9GNB_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6SGR.pdb,data/DARPin/metadata_files/6SGR_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/8DW3.pdb,data/DARPin/metadata_files/8DW3_metadata.json,6,protein/oligosaccharide
+data/DARPin/pdb_files/5EN5.pdb,data/DARPin/metadata_files/5EN5_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5ENO.pdb,data/DARPin/metadata_files/5ENO_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5ENP.pdb,data/DARPin/metadata_files/5ENP_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5ENQ.pdb,data/DARPin/metadata_files/5ENQ_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5ENR.pdb,data/DARPin/metadata_files/5ENR_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5ENS.pdb,data/DARPin/metadata_files/5ENS_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/6S8K.pdb,data/DARPin/metadata_files/6S8K_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7B8S.pdb,data/DARPin/metadata_files/7B8S_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/7PJF.pdb,data/DARPin/metadata_files/7PJF_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ6.pdb,data/DARPin/metadata_files/7YZ6_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6MOI.pdb,data/DARPin/metadata_files/6MOI_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MA3.pdb,data/DARPin/metadata_files/5MA3_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6F5E.pdb,data/DARPin/metadata_files/6F5E_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/2Y1L.pdb,data/DARPin/metadata_files/2Y1L_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/5LEL.pdb,data/DARPin/metadata_files/5LEL_metadata.json,9,heteromeric protein
+data/DARPin/pdb_files/5MA6.pdb,data/DARPin/metadata_files/5MA6_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MA8.pdb,data/DARPin/metadata_files/5MA8_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5ENT.pdb,data/DARPin/metadata_files/5ENT_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/7B8R.pdb,data/DARPin/metadata_files/7B8R_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/7B8T.pdb,data/DARPin/metadata_files/7B8T_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/7ODN.pdb,data/DARPin/metadata_files/7ODN_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YYY.pdb,data/DARPin/metadata_files/7YYY_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YYZ.pdb,data/DARPin/metadata_files/7YYZ_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ0.pdb,data/DARPin/metadata_files/7YZ0_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ1.pdb,data/DARPin/metadata_files/7YZ1_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ2.pdb,data/DARPin/metadata_files/7YZ2_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ3.pdb,data/DARPin/metadata_files/7YZ3_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7YZ5.pdb,data/DARPin/metadata_files/7YZ5_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/2ZVN.pdb,data/DARPin/metadata_files/2ZVN_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/5LW1.pdb,data/DARPin/metadata_files/5LW1_metadata.json,10,heteromeric protein
+data/DARPin/pdb_files/4LNU.pdb,data/DARPin/metadata_files/4LNU_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7Z71.pdb,data/DARPin/metadata_files/7Z71_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/7Z72.pdb,data/DARPin/metadata_files/7Z72_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7Z73.pdb,data/DARPin/metadata_files/7Z73_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/4BWN.pdb,data/DARPin/metadata_files/4BWN_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/6S8L.pdb,data/DARPin/metadata_files/6S8L_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/7ALR.pdb,data/DARPin/metadata_files/7ALR_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8A19.pdb,data/DARPin/metadata_files/8A19_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8A1A.pdb,data/DARPin/metadata_files/8A1A_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MIO.pdb,data/DARPin/metadata_files/5MIO_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/6ZOA.pdb,data/DARPin/metadata_files/6ZOA_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOF.pdb,data/DARPin/metadata_files/6ZOF_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOH.pdb,data/DARPin/metadata_files/6ZOH_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7OUL.pdb,data/DARPin/metadata_files/7OUL_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7OUM.pdb,data/DARPin/metadata_files/7OUM_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/5MA9.pdb,data/DARPin/metadata_files/5MA9_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/6FES.pdb,data/DARPin/metadata_files/6FES_metadata.json,4,homomeric protein
+data/DARPin/pdb_files/9BOI.pdb,data/DARPin/metadata_files/9BOI_metadata.json,1,homomeric protein
+data/DARPin/pdb_files/5JMN.pdb,data/DARPin/metadata_files/5JMN_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6Q4N.pdb,data/DARPin/metadata_files/6Q4N_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6Q4O.pdb,data/DARPin/metadata_files/6Q4O_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6Q4P.pdb,data/DARPin/metadata_files/6Q4P_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZO5.pdb,data/DARPin/metadata_files/6ZO5_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZO7.pdb,data/DARPin/metadata_files/6ZO7_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZO8.pdb,data/DARPin/metadata_files/6ZO8_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZO9.pdb,data/DARPin/metadata_files/6ZO9_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOB.pdb,data/DARPin/metadata_files/6ZOB_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOC.pdb,data/DARPin/metadata_files/6ZOC_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOD.pdb,data/DARPin/metadata_files/6ZOD_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/6ZOG.pdb,data/DARPin/metadata_files/6ZOG_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/7OUK.pdb,data/DARPin/metadata_files/7OUK_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/8G42.pdb,data/DARPin/metadata_files/8G42_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8G4F.pdb,data/DARPin/metadata_files/8G4F_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8G4H.pdb,data/DARPin/metadata_files/8G4H_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9YMG.pdb,data/DARPin/metadata_files/9YMG_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/5MAD.pdb,data/DARPin/metadata_files/5MAD_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/5MAK.pdb,data/DARPin/metadata_files/5MAK_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/4YDY.pdb,data/DARPin/metadata_files/4YDY_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/9R8C.pdb,data/DARPin/metadata_files/9R8C_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/4F6R.pdb,data/DARPin/metadata_files/4F6R_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/5NC5.pdb,data/DARPin/metadata_files/5NC5_metadata.json,8,heteromeric protein
+data/DARPin/pdb_files/6MZG.pdb,data/DARPin/metadata_files/6MZG_metadata.json,12,heteromeric protein
+data/DARPin/pdb_files/6ZO6.pdb,data/DARPin/metadata_files/6ZO6_metadata.json,5,heteromeric protein
+data/DARPin/pdb_files/8G47.pdb,data/DARPin/metadata_files/8G47_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/5MA5.pdb,data/DARPin/metadata_files/5MA5_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/4HNA.pdb,data/DARPin/metadata_files/4HNA_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/3F89.pdb,data/DARPin/metadata_files/3F89_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/5ITZ.pdb,data/DARPin/metadata_files/5ITZ_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/2XZD.pdb,data/DARPin/metadata_files/2XZD_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/2XZT.pdb,data/DARPin/metadata_files/2XZT_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/2Y0B.pdb,data/DARPin/metadata_files/2Y0B_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/6BBN.pdb,data/DARPin/metadata_files/6BBN_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/6MZF.pdb,data/DARPin/metadata_files/6MZF_metadata.json,28,heteromeric protein
+data/DARPin/pdb_files/3FX0.pdb,data/DARPin/metadata_files/3FX0_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/7TXD.pdb,data/DARPin/metadata_files/7TXD_metadata.json,12,protein/oligosaccharide
+data/DARPin/pdb_files/5OYJ.pdb,data/DARPin/metadata_files/5OYJ_metadata.json,4,protein/oligosaccharide
+data/DARPin/pdb_files/6MZE.pdb,data/DARPin/metadata_files/6MZE_metadata.json,28,heteromeric protein
+data/DARPin/pdb_files/2ZVO.pdb,data/DARPin/metadata_files/2ZVO_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/8RCI.pdb,data/DARPin/metadata_files/8RCI_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9FZB.pdb,data/DARPin/metadata_files/9FZB_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8P9C.pdb,data/DARPin/metadata_files/8P9C_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8P9D.pdb,data/DARPin/metadata_files/8P9D_metadata.json,6,heteromeric protein
+data/DARPin/pdb_files/8P9E.pdb,data/DARPin/metadata_files/8P9E_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/2V5Q.pdb,data/DARPin/metadata_files/2V5Q_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/3JSV.pdb,data/DARPin/metadata_files/3JSV_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/4OWF.pdb,data/DARPin/metadata_files/4OWF_metadata.json,3,heteromeric protein
+data/DARPin/pdb_files/8U1B.pdb,data/DARPin/metadata_files/8U1B_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/9R1X.pdb,data/DARPin/metadata_files/9R1X_metadata.json,2,homomeric protein
+data/DARPin/pdb_files/8DW2.pdb,data/DARPin/metadata_files/8DW2_metadata.json,6,protein/oligosaccharide
+data/DARPin/pdb_files/8TZC.pdb,data/DARPin/metadata_files/8TZC_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/7ZYU.pdb,data/DARPin/metadata_files/7ZYU_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/8TZH.pdb,data/DARPin/metadata_files/8TZH_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/2P2C.pdb,data/DARPin/metadata_files/2P2C_metadata.json,18,heteromeric protein
+data/DARPin/pdb_files/6D67.pdb,data/DARPin/metadata_files/6D67_metadata.json,2,protein/oligosaccharide
+data/DARPin/pdb_files/5EIB.pdb,data/DARPin/metadata_files/5EIB_metadata.json,4,heteromeric protein
+data/DARPin/pdb_files/6D66.pdb,data/DARPin/metadata_files/6D66_metadata.json,2,heteromeric protein
+data/DARPin/pdb_files/6D65.pdb,data/DARPin/metadata_files/6D65_metadata.json,4,heteromeric protein
