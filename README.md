@@ -1,6 +1,6 @@
 # Protein Structure Selection Pipeline
 
-This project identifies, downloads, and filters protein structures from the **Protein Data Bank (PDB)** related to:
+This repository identifies, downloads, and filters protein structures from the **Protein Data Bank (PDB)** related to:
 
 - **Ankyrin repeat proteins**
 - **DARPins (Designed Ankyrin Repeat Proteins)**
