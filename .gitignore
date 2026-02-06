@@ -3,3 +3,4 @@
 */data
 */logs
 */training_output
+*/__pycache__
