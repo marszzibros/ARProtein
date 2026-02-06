@@ -1,3 +1,5 @@
 *.pdb
 *.json
-
+*/data
+*/logs
+*/training_output
