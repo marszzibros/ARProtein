@@ -14,8 +14,8 @@
 cd ${SLURM_SUBMIT_DIR}
 
 source ~/.bashrc
-conda activate nlp_project
+conda activate lignadmpnn_env
 
 cd ${SLURM_SUBMIT_DIR}
 
-python3 run_download.py Ankyrin_repeat_protein
+python3 download.py

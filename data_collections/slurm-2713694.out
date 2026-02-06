@@ -1,0 +1,24 @@
+
+EnvironmentNameNotFound: Could not find conda environment: lignadmpnn_env
+You can list all discoverable environments with `conda info --envs`.
+
+
+Failed to download 7OZT: 404 Client Error: Not Found for url: https://files.rcsb.org/download/7OZT.pdb
+Failed to download 9U6A: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9U6A.pdb
+Failed to download 9F8G: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9F8G.pdb
+Failed to download 6YVR: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6YVR.pdb
+Failed to download 9R8B: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9R8B.pdb
+Failed to download 9PW8: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9PW8.pdb
+Failed to download 6Z4V: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6Z4V.pdb
+Failed to download 7QNL: 404 Client Error: Not Found for url: https://files.rcsb.org/download/7QNL.pdb
+Failed to download 9F23: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9F23.pdb
+Failed to download 9U6A: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9U6A.pdb
+Failed to download 9DAM: 404 Client Error: Not Found for url: https://data.rcsb.org/rest/v1/core/entry/9DAM
+Failed to download 9F8G: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9F8G.pdb
+Failed to download 9R8B: 404 Client Error: Not Found for url: https://files.rcsb.org/download/9R8B.pdb
+Failed to download 6YVR: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6YVR.pdb
+Failed to download  7ZYU: 404 Client Error: Not Found for url: https://files.rcsb.org/download/%207ZYU.pdb
+Failed to download 6Z4Q: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6Z4Q.pdb
+Failed to download 6Z4S: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6Z4S.pdb
+Failed to download 6Z4V: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6Z4V.pdb
+Failed to download 6ZIN: 404 Client Error: Not Found for url: https://files.rcsb.org/download/6ZIN.pdb

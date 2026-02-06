@@ -212,7 +212,7 @@ if __name__ == "__main__":
     parser.add_argument("--json_list", type=str, default="", help="Path to JSON list of PDB IDs. Optional if pdb_dir contains all files.")
     parser.add_argument("--pdb_dir", type=str, required=True, help="Directory containing PDB files")
     parser.add_argument("--out_dir", type=str, default="./training_output", help="Output directory")
-    parser.add_argument("--checkpoint_path", type=str, default="./model_params/ligandmpnn_v_32_010_25.pt", help="Initial checkpoint to start from")
+    parser.add_argument("--checkpoint_path", type=str, default="./model_params/ligandmpnn_v_32_030_25.pt", help="Initial checkpoint to start from")
     parser.add_argument("--epochs", type=int, default=10)
     parser.add_argument("--lr", type=float, default=1e-4)
     parser.add_argument("--log_interval", type=int, default=100)
